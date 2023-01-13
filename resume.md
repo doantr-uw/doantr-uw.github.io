@@ -15,7 +15,7 @@ I am a student at the University of Washington. Majoring in data science through
 
 ## University of Washington (Seattle, WA)
 
-* [University of Washington ][] founded in 1861, the University of Washington is one of the world's most prestigious universities. The UW enrolls more than 60,000 students each year. The University of Washington is well-known for its groundbreaking research in a variety of fields, including medicine, public affairs, aeronautics, education, business, etc.
+* [University of Washington][] founded in 1861, the University of Washington is one of the world's most prestigious universities. The UW enrolls more than 60,000 students each year. The University of Washington is well-known for its groundbreaking research in a variety of fields, including medicine, public affairs, aeronautics, education, business, etc.
 
 **Bachelor's degree, Geography: Data Science** 
 
