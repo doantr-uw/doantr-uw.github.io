@@ -41,7 +41,7 @@ Sep 2017 - Jun 2019
 
 - **Linear/ Matrix Algebra**
 - Technical writing
-- Vietnamese Student Association (VSAUW)
+- Vietnamese Student Association 
 
 ## Shorecrest High School (Shoreline, WA)
 * [Shorecrest High School][] is a public high school located in Shoreline,Washington. Shorecrest was founded in 1961. The estimated total enrollment is 1,495 students.
